@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(90deg, #07e7c9 0%, #0686e7 100%);
+    font: normal 15 pt arial;
+    padding: 5px;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.764);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+#button {
+    background: #0dbad4;
+    border-radius: 14px;
+    padding: 5px;
+    cursor: pointer;
+    border: 0;
+}
+
+#dados input {
+    width: 100%;
+    border-radius: 14px;
+    padding: 5px;
+    display: block;
+    font-size: 15px;
+}
